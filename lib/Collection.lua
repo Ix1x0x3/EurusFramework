@@ -53,3 +53,5 @@ function Collection.remove(Key)
 
     return self;
 end
+
+return Collection;
